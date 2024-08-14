@@ -11,7 +11,7 @@
 repeat wait() until game:IsLoaded()
 
 if Key == nil then
-    Key = "R3TH PRIV"
+    Key = "MM2"
 end
 
 print("[ " .. Key .. " ]: Murder Mystery 2 loading...")
@@ -30,7 +30,7 @@ local NotificationHolder = loadstring(game:HttpGet("https://raw.githubuserconten
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/R3TH-PRIV/R3THPRIV-old/main/Venyx%20UI%20Lib/Source.lua"))()
-local R3TH = library.new(Key .. " | .gg/pethicial")
+local R3TH = library.new(Key .. "| YOUHUB")
 
 local Themes = {
     Background = Color3.fromRGB(24, 24, 24),
